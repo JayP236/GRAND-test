@@ -1,6 +1,0 @@
-Latest (v0.1.1): https://drive.google.com/file/d/1JrtzxCjyTZ_3vaq5imCHmjmu1qeNzq0x/view?usp=sharing
-
-When upgrading from v0.1.0 to v.0.1.1 only an update of XINPUT1_3.dll is required.
-
-Old builds:
-v0.1.0: https://drive.google.com/file/d/1Pyw3CBNBOFk_Akgi44UIPsoZdk8AMFrD/view?usp=sharing
